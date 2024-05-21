@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Prashant Kumar - aka [Ares323]👋
-🔭 Check out my Portfolio: <br>🌱 I’m currently enhancing my hands-on experience in the field of DevOps and dedicating myself to honing my skills in Data Structures and Algorithms on the other hand.<br>👯 I’m looking to contribute more and work on open source.<br>🥅 2024 Goals: Enhance technical proficiency in SDE (Back-End).<br>⚡ Interests: I listen to EDM and I love playing Badminton.
+🔭 Check out my Portfolio: <br>🌱 I’m currently enhancing my hands-on experience in the field of Front-End / Back - End and dedicating myself to honing my skills in Data Structures and Algorithms on the other hand.<br>👯 I’m looking to contribute more and work on open source.<br>🥅 2024 Goals: Enhance technical proficiency in SDE (Back-End).<br>⚡ Interests: I listen to EDM and I love playing Badminton.
 
 
 ## 🌐 Socials:
